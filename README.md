@@ -1,4 +1,4 @@
-<h1 align="center">Maria Eduarda )<br/>
+<h1 align="center">Maria Eduarda <br/>
   <sup>
     <sup>Full Stack Student</sup>
     <br/>

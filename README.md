@@ -20,7 +20,7 @@
   
 #
   
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fver%2Fkobayashi-kobayashi-dragon-maid-dragon-maid-write-gif-22973406&psig=AOvVaw2x1Wh7gjQaz7czPnckxA2J&ust=1649969145388000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCnwaD0kfcCFQAAAAAdAAAAABAw" width="500" height="320" />
+<img align="right" alt="GIF" src="https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" width="350" height="200" />
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

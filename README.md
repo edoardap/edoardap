@@ -23,7 +23,7 @@ Contatos:
   <br>Conhecimento em:
  
 <img align="right" alt="GIF" src="https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" width="350" height="200" />
-  
+<br>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="duda-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   

@@ -13,17 +13,7 @@ Contatos:
 </div>
 
   ##
-  
-<div align="center">  
-  <a href="https://github.com/MariaEduardaPereiraSm">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaPereiraSm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaPereiraSm&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-  <br>Conhecimento em:
- 
-<img align="right" alt="GIF" src="https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" width="350" height="200" />
-<br>
+<br>Conhecimento em:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="duda-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   

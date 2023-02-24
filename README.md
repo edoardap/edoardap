@@ -28,5 +28,12 @@
   <img align="center" alt="duda-html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="duda-css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   
+  <br></br>
+  <div align="center">
+  <a href="https://github.com/mariaeduardapereirasm">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardapereirasm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardapereirasm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
    ![Snake animation](https://github.com/MariaEduardaPereiraSm/MariaEduardaPereiraSm/blob/output/github-contribution-grid-snake.svg)
 
